@@ -2,3 +2,4 @@ This is a sample file
 used for SCM poll
 from jenkins.
 update 1
+update 2
